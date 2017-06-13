@@ -9,7 +9,7 @@ As part of your evaluation for this challenge, you'll be building an additional 
 Skills covered:
 
 - Node.js
-- HTTP Apps (w/ Express)
+- HTTP Apps
 - HTML & CSS
 - The Browser
 - SQL
