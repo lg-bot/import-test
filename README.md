@@ -32,12 +32,12 @@ Don't worry about using real images - just use placeholders for now.
 
 Use this data to seed the `albums` table on your database.
 
-| Title     | Artist          |
-|:----------|:----------------|
-| Kid A     | Radiohead       |
-| Thriller  | Michael Jackson |
-| Blue      | Joni Mitchell   |
-| Graceland | Paul Simon      |
+| Title               | Artist          |
+|:--------------------|:----------------|
+| Malibu              | Anderson .Paak  |
+| A Seat at the Table | Solange Knowles |
+| Melodrama           | Lorde           |
+| In Rainbows         | Radiohead       |
 
 ## General Requirements
 
@@ -131,7 +131,7 @@ These are the possible features that your interviewer may choose from to pair wi
 
 **Users can...**
 
-- Visit album pages via pretty urls, like "/albums/thriller".
+- Visit album pages via pretty urls, like "/albums/malibu".
 - Add a star rating to reviews (from 1-5) and see the star rating for each review of an album in star icons.
 - See review content truncated to 400 characters max, with a link to view more on a album's page.
 - See a relative published date, e.g. "2 days ago" on a album's page.
