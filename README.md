@@ -2,7 +2,7 @@
 
 This is the challenge for getting into phase 4. You'll work on one app, building it in three stages.
 
-To get started, create a new repository called `phase-4-challenge`. Do all of your work in this repo and submit it as your solution.
+To get started, create a new repository called `phase-4-challenge` and load the files from [the scaffold][scaffold]. Do all of your work in this repo and submit it as your solution.
 
 As part of your evaluation for this challenge, you'll be building an additional feature with the interviewer. Read the [Pairing Exercise](#pairing-exercise) section for more detail.
 
@@ -20,13 +20,15 @@ Build a community for record enthusiasts to review their favorite albums. The ap
 
 The client has provided basic wireframes and user stories (broken into 3 stages).
 
+Some work has already been done for you in the [scaffold][scaffold]. Build off of the existing code.
+
 ## Wireframes
 
 Use these wireframes to guide your design.
 
 Don't worry about using real images - just use placeholders for now.
 
-![app flow](https://user-images.githubusercontent.com/709100/26892225-934387d8-4b85-11e7-82e3-d739b22f1dcf.png)
+![app flow](https://user-images.githubusercontent.com/16725399/27102456-2d2a9950-503a-11e7-8552-6302645e1191.png)
 
 ## Sample Data
 
@@ -43,9 +45,11 @@ Use this data to seed the `albums` table on your database.
 
 - [ ] __10:__ Solution is in a public repository called `phase-4-challenge`.
 - [ ] __10:__ All dependencies are declared in a `package.json` file.
-- [ ] __10:__ Express is used for the web server.
-- [ ] __20:__ PostgreSQL is used for the database.
-- [ ] __20:__ Database is seeded with at least 4 albums (check out the [sample data](#sample-data)).
+- [x] __10:__ Express is used for the web server.
+- [x] __10:__ PostgreSQL is used for the database.
+- [x] __10:__ Database is seeded with at least 4 albums (check out the [sample data](#sample-data)).
+
+_The items that are already checked off have been completed in the [scaffold][scaffold]._
 
 ## Stage 1: Basic User Authentication & Profiles
 
@@ -156,3 +160,5 @@ These are the possible features that your interviewer may choose from to pair wi
 - View only the 10 most recent reviews on a album page (pagination).
 - View a link/button to the "Next" 10 on the album page (pagination).
 - View a link/button to the "Previous" 10 on the album page (pagination).
+
+[scaffold]: https://drive.google.com/file/d/0B77MaJi8kPm1WEkwb3JyOXFtd2M/view?usp=sharing
