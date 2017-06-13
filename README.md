@@ -1,10 +1,10 @@
-# Phase 3 -> 4 Assessment
+# Phase 4 Interview Challenge
 
-This is the assessment for moving from phase 3 to phase 4. You'll work on one app, building it in three stages.
+This is the challenge for getting into phase 4. You'll work on one app, building it in three stages.
 
-To get started, create a new repository called `phase-3-assessment`. Do all of your work in this repo and submit it as your solution.
+To get started, create a new repository called `phase-4-challenge`. Do all of your work in this repo and submit it as your solution.
 
-As part of your evaluation for this assessment, you'll be building an additional feature with the evaluator. Read the [Pairing Exercise](#pairing-exercise) section for more detail.
+As part of your evaluation for this challenge, you'll be building an additional feature with the interviewer. Read the [Pairing Exercise](#pairing-exercise) section for more detail.
 
 Skills covered:
 
@@ -41,7 +41,7 @@ Use this data to seed the `albums` table on your database.
 
 ## General Requirements
 
-- [ ] Solution is in a public repository called `phase-3-assessment`.
+- [ ] Solution is in a public repository called `phase-4-challenge`.
 - [ ] All dependencies are declared in a `package.json` file.
 - [ ] Express is used for the web server.
 - [ ] PostgreSQL is used for the database.
@@ -111,11 +111,11 @@ A user is authorized to perform certain actions on the site. You don't need to s
 
 ## Pairing Exercise
 
-As part of the interview portion of this assessment, you will be pairing on a new feature with your evaluator.
+As part of the interview portion of this challenge, you will be pairing on a new feature with your interviewer.
 
 **DO NOT COMPLETE THE FEATURES LISTED BELOW.** They are here simply so that you can see what _kinds_ of things you may be asked to build during your interview.
 
-These are the possible features that your assessor may choose from to pair with you on (you will not know which one they'll choose until your interview):
+These are the possible features that your interviewer may choose from to pair with you on (you will not know which one they'll choose until your interview):
 
 #### Profile Features
 
