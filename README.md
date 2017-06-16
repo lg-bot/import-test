@@ -105,13 +105,13 @@ Ensure that no invalid data gets saved to the database with validation. Also mak
 
 Users CANNOT save invalid data to the database. You don't need to show error messages to the user for the following.
 
-- [ ] __20:__ Users CANNOT sign up with an email that is already in use.
-- [ ] __20:__ A review's content must not be empty.
+- [ ] __30:__ Users CANNOT sign up with an email that is already in use.
+- [ ] __30:__ A review's content must not be empty.
 
 A user is authorized to perform certain actions on the site. You don't need to show error messages to the user for the following.
 
-- [ ] __20:__ Only logged in users can create/destroy reviews.
-- [ ] __20:__ Users may only delete their own reviews.
+- [ ] __30:__ Only logged in users can create/destroy reviews.
+- [ ] __30:__ Users may only delete their own reviews.
 
 ---
 
