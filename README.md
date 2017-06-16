@@ -14,6 +14,8 @@ Skills covered:
 - The Browser
 - SQL
 
+Each requirement has a point value. A fully complete requirement gets full points; partially complete requirements get partial points; incomplete requirements get no points. Completeness is determined by calculating points earned divided by total points available.
+
 ## Project Description
 
 Build a community for record enthusiasts to review their favorite albums. The app is called **Vinyl**.
