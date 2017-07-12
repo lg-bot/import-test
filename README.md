@@ -163,4 +163,4 @@ These are the possible features that your interviewer may choose from to pair wi
 - View a link/button to the "Next" 10 on the album page (pagination).
 - View a link/button to the "Previous" 10 on the album page (pagination).
 
-[scaffold]: https://drive.google.com/file/d/0B77MaJi8kPm1WEkwb3JyOXFtd2M/view?usp=sharing
+[scaffold]: https://drive.google.com/file/d/0B77MaJi8kPm1TzVLM1dtX2ZMeUU/view?usp=sharing
