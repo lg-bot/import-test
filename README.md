@@ -22,7 +22,7 @@ Build a community for record enthusiasts to review their favorite albums. The ap
 
 The client has provided basic wireframes and user stories (broken into 3 stages).
 
-Some work has already been done for you in the [scaffold][scaffold]. Build off of the existing code.
+Some work has already been done for you in the [scaffold][scaffold]. Build off of the existing code. (But if you'd like to use a different tool than the one provided in the scaffold - go ahead and swap it out. Just be ready to defend your choice. :)
 
 ## Wireframes
 
@@ -47,6 +47,7 @@ Use this data to seed the `albums` table on your database.
 
 - [ ] __10:__ Solution is in a public repository called `phase-4-challenge`.
 - [ ] __10:__ All dependencies are declared in a `package.json` file.
+- [ ] __50:__ The layouts of your views match the wireframes.
 - [x] __10:__ Express is used for the web server.
 - [x] __10:__ PostgreSQL is used for the database.
 - [x] __10:__ Database is seeded with at least 4 albums (check out the [sample data](#sample-data)).
